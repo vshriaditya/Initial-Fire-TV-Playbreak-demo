@@ -1,0 +1,37 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="24" fill="#08111F"/>
+  <text x="60" y="58" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Initial Fire TV Playbreak Demo</text>
+  <text x="60" y="88" fill="#AAB7C8" font-family="Arial, Helvetica, sans-serif" font-size="16">An early consumer-side prototype for turning a passive TV ad slot into an interactive reward moment.</text>
+
+  <g>
+    <rect x="52" y="130" width="246" height="118" rx="18" fill="#111C31" stroke="#23324D"/>
+    <text x="78" y="164" fill="#6CC3FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">01</text>
+    <text x="78" y="194" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Browse Fire TV</text>
+    <text x="78" y="220" fill="#B9C4D4" font-family="Arial, Helvetica, sans-serif" font-size="14">Viewer sees a sponsored Playbreak unit</text>
+  </g>
+
+  <g>
+    <rect x="332" y="130" width="246" height="118" rx="18" fill="#111C31" stroke="#23324D"/>
+    <text x="358" y="164" fill="#6CC3FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">02</text>
+    <text x="358" y="194" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Play Trivia</text>
+    <text x="358" y="220" fill="#B9C4D4" font-family="Arial, Helvetica, sans-serif" font-size="14">A 10-second branded question appears</text>
+  </g>
+
+  <g>
+    <rect x="612" y="130" width="246" height="118" rx="18" fill="#111C31" stroke="#23324D"/>
+    <text x="638" y="164" fill="#6CC3FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">03</text>
+    <text x="638" y="194" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Answer Fast</text>
+    <text x="638" y="220" fill="#B9C4D4" font-family="Arial, Helvetica, sans-serif" font-size="14">Use remote or voice to submit a choice</text>
+  </g>
+
+  <g>
+    <rect x="892" y="130" width="256" height="118" rx="18" fill="#142A20" stroke="#285A43"/>
+    <text x="918" y="164" fill="#8FF2C0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">04</text>
+    <text x="918" y="194" fill="#F5F7FA" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Reward Delivered</text>
+    <text x="918" y="220" fill="#C7E8D7" font-family="Arial, Helvetica, sans-serif" font-size="14">Winning viewers get an offer in account/email</text>
+  </g>
+
+  <path d="M298 189H328" stroke="#3F506E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M578 189H608" stroke="#3F506E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M858 189H888" stroke="#3F506E" stroke-width="3" stroke-linecap="round"/>
+</svg>
